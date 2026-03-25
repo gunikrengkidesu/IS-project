@@ -110,8 +110,6 @@ with st.sidebar:
                      use_container_width=True):
             st.session_state.page = item
             st.rerun()
-    st.divider()
-    st.caption("© 2026 AI Dashboard")
 
 page = st.session_state.page
 
