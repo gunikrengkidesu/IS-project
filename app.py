@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 import os
 
-st.set_page_config(page_title="AI Dashboard", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="IS Project", layout="wide")
 
 st.markdown("""
 <style>
